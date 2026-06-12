@@ -58,7 +58,31 @@ Student-Performance-Prediction-ML/
 ├── student_marks_model.pkl
 └── README.md
 ```
+## Project Screenshots
 
+### Actual vs Predicted Marks
+
+<img width="740" height="557" alt="Screenshot 2026-06-12 115027" src="https://github.com/user-attachments/assets/5944d430-4062-4509-ad50-a81c610d1193" />
+
+
+### Feature Importance
+
+<img width="756" height="633" alt="Screenshot 2026-06-12 115106" src="https://github.com/user-attachments/assets/adeedb34-6ac4-43bc-97e7-2c9a456533f5" />
+
+
+### Model Evaluation
+
+<img width="522" height="278" alt="Screenshot 2026-06-12 120107" src="https://github.com/user-attachments/assets/b18a718a-ced5-442b-b187-d0a11687ade1" />
+
+
+### Student Marks Prediction Output
+
+<img width="980" height="518" alt="Screenshot 2026-06-12 115306" src="https://github.com/user-attachments/assets/5280beb4-588e-4c54-8a5d-4003a39678f3" />
+
+
+## Author
+
+KUCHU LATHA
 ## Author
 
 KUCHU LATHA
